@@ -7,7 +7,7 @@ Minimal project for developing with Unity3D in Visual Studio 2013. Target framew
 
 First install Visual Studio 2013 tools for Unity 4.5
 
-https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2
+[https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2](https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2)
 
 To get it working:
 
