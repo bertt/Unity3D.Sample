@@ -5,7 +5,7 @@ Minimal project for developing with Unity3D in Visual Studio 2013. Target framew
 
 'Unity 3.5 .NET full Base Class Libraries' (a subset of Microsoft.NET 3.5)
 
-First install Visual Studio 2013 tools for Unity
+First install Visual Studio 2013 tools for Unity 4.5
 
 https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2
 
