@@ -16,10 +16,8 @@ To get it working:
 . Open UnitySources\UnityVS.UnityProject.sln in Visual Studio
 
 . Rebuild. 
-On build the following Post-Build command is executed:
-"C:\Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.0\pdb2mdb.exe" "$(TargetPath)"
-For this to work you need to have at least the Mono executable pdb2mdb.exe installed in  
-C:\Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.0\
+On build the following Post-Build command is executed to create a mono debug file (mdb):
+"$(SolutionDir)\tools\pdb2mdb.exe" "$(TargetPath)"
 
 If all goes well, in the directory UnityProject\Assets\Plugins 6 Unity3DPlugin files are created.
 
