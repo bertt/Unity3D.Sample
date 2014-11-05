@@ -8,6 +8,9 @@ namespace ClassLibrary1
         {
             // just set the background color to test
             Camera.main.backgroundColor = Color.black;
+
+
+
         }
     }
 }
